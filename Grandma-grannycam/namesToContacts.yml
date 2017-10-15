@@ -1,0 +1,11 @@
+ethl methl:
+- {carrier: AT&T, firstname: jake, lastname: martinez, phone: '265784789'}
+mariel strauss:
+- {carrier: Verizon, firstname: charlie, lastname: martinez, phone: '5053100756'}
+- {carrier: Verizon, firstname: lynn, lastname: martinez, phone: '5054120319'}
+rusty:
+- {carrier: Verizon, firstname: charlie, lastname: martinez, phone: '5053100756', email: cems@me.com}
+shelbys right thumb:
+- {carrier: Sprint, firstname: dungius_dingle_berry III, lastname: martinez, phone: '5053090888'}
+shelbys right index:
+- {carrier: Sprint, firstname: you_pain, lastname: martinez, phone: '5053090888'}
